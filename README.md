@@ -64,7 +64,7 @@ Este endpoint elimina el producto seleccionado del carrito.
     npm i
 7. **Una vez las dependencias se terminaron de instalar, iniciamos nuestro proyecto con el siguiente comando**:
     ```bash
-   npm start
+   npm run dev
 
 **El servidor se ejecutará en http://localhost:3000/ para el back de forma predeterminada y en http://localhost:5173 para el front. Puedes abrir este enlace en tu navegador para ver la aplicación en ejecución.**
 
@@ -76,6 +76,7 @@ Este endpoint elimina el producto seleccionado del carrito.
 ## ⚠️ Notas Importantes
 
 - Mi desarrollo se enfoco en un mayor porcentaje en la funcionalidad, ya que por el tiempo le realize un look and feel simple, espero les sea de agrado
+- Si se llega a presentar algun problema con la instalacion, solamente bataria con borrar los node-modules y el archivo package-lock.json y ejecutar el comando 'npm i' de nuevo
 
 ---
 
