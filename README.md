@@ -9,9 +9,8 @@
 1. [🎥 Video Explicativo](#-video-explicativo)
 2. [🌐 Endpoints API](#endpoints-api)
 3. [🚀 Cómo Configurar el Proyecto y Ejecutarlo](#cómo-ejecutar-los-scripts)
-6. [📜 Requisitos](#requisitos)
-7. [⚠️ Notas Importantes](#notas-importantes)
-8. [📋 Notas del Autor](#notas-del-autor)
+4. [⚠️ Notas Importantes](#notas-importantes)
+5. [📋 Notas del Autor](#notas-del-autor)
 
 
 
