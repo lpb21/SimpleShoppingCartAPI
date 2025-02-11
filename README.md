@@ -56,7 +56,7 @@ Este endpoint elimina el producto seleccionado del carrito.
 2. **Iniciando con el back, le damos click derecho y abrir con nuestro editor favorito o abrimos la terminal estando en /SimpleShoppingCartAppi y ejecutamos:**:
     ```bash
     npm i
-4. **Una vez terminadas de instalar, iniciamos el servidor con el siguiente comando**:
+4. **Una vez las dependencias se terminaron de instalar, iniciamos el servidor con el siguiente comando**:
     ```bash
     npm run dev
 5. **Ahora continuamos con el FRONT, una vez clonado el repositorio le damos click derecho y abrir con nuestro editor favorito o abrimos la terminal estando en /SimpleShoppingCartFront y ejecutamos**:
@@ -76,7 +76,7 @@ Este endpoint elimina el producto seleccionado del carrito.
 ## ⚠️ Notas Importantes
 
 - Mi desarrollo se enfoco en un mayor porcentaje en la funcionalidad, ya que por el tiempo le realize un look and feel simple, espero les sea de agrado
-- Si se llega a presentar algun problema con la instalacion, solamente bataria con borrar los node-modules y el archivo package-lock.json y ejecutar el comando 'npm i' de nuevo
+- Si se llega a presentar algun problema con la instalacion, solamente bastaria con borrar los node-modules y el archivo package-lock.json y ejecutar el comando 'npm i' de nuevo
 
 ---
 
