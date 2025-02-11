@@ -42,9 +42,6 @@ Este endpoint elimina el producto seleccionado del carrito.
 
 
 ---
-## 📜 Requisitos
-
----
 ## 🚀 Cómo Configurar el Proyecto y Ejecutarlo
 ## Prerrequisitos
 
@@ -52,50 +49,33 @@ Este endpoint elimina el producto seleccionado del carrito.
 
 - **Sigue estos pasos para ejecutar los 2 proyectos en tu entorno de desarrollo local:**
 
-1. **Clona los repositorios en ubicaciones separadas preferiblemente**:
-
+1. **Clona los repositorios en ubicaciones separadas o en la misma carpeta, no hay problema, abres una consola de git y le das los siguientes comandos**:
    ```bash
    git clone https://github.com/lpb21/SimpleShoppingCartAPI.git
    git clone https://github.com/lpb21/SimpleShoppingCartFront.git
+2. **Iniciando con el back, le damos click derecho y abrir con nuestro editor favorito o abrimos la terminal estando en /SimpleShoppingCartAppi y ejecutamos:**:
+    ```bash
+    npm i
+4. **Una vez terminadas de instalar, iniciamos el servidor con el siguiente comando**:
+    ```bash
+    npm run dev
+5. **Ahora continuamos con el FRONT, una vez clonado el repositorio le damos click derecho y abrir con nuestro editor favorito o abrimos la terminal estando en /SimpleShoppingCartFront y ejecutamos**:
+    ```bash
+    npm i
+7. **Una vez las dependencias se terminaron de instalar, iniciamos nuestro proyecto con el siguiente comando**:
+    ```bash
+   npm start
 
-2. **En el que dice xx navega al directorio del proyecto**:
-
-   ```bash
-   cd nexosFront
-   
-3. **Igual que en el paso anterior navega al directorio del proyecto xxx**:
-
-
-cd nexosBack
-
-4. **Instala las dependencias**:
-
-   Ejecuta el siguiente comando para instalar todas las dependencias del proyecto:
-
-   ```bash
-   npm install
-
-* Esto descargará todas las dependencias especificadas en el archivo package.json y las instalará localmente en la carpeta node_modules.
-
-
-4. **Inicia el servidor**:
-
-   Utiliza el siguiente comando para iniciar el servidor:
-
-   ```bash
-   npm run dev y npm start en el caso del front
-   
-
-**El servidor se ejecutará en http://localhost:3000/ para el back de forma predeterminada y en http://localhost:3001 para el front. Puedes abrir este enlace en tu navegador para ver la aplicación en ejecución.**
+**El servidor se ejecutará en http://localhost:3000/ para el back de forma predeterminada y en http://localhost:5173 para el front. Puedes abrir este enlace en tu navegador para ver la aplicación en ejecución.**
 
 **Navega a la aplicación:**
 
- **Abre tu navegador web y navega a http://localhost:3000/ para acceder a la aplicación del back**
+ **Abre tu navegador web y navega a http://localhost:5173/ para acceder a la aplicación**
 
 ---
 ## ⚠️ Notas Importantes
 
-- xxxxxx
+- Mi desarrollo se enfoco en un mayor porcentaje en la funcionalidad, ya que por el tiempo le realize un look and feel simple, espero les sea de agrado
 
 ---
 
