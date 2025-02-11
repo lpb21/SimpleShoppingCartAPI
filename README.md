@@ -20,7 +20,7 @@
 ## 🎥 Video Explicativo
 A continuacion podran ver el link del video que explica cómo implemente el desarrollo y una prueba en vivo , haz clic en el siguiente enlace:
 
-[**Ver Video Explicativo**](https://drive.google.com/file/d/1lUdyJxWMRs-zNUeZkzVa15YNz7hqJmlW/view?usp=sharing)
+[**Ver Video Explicativo**](https://drive.google.com/file/d/1-MixcWmaAjlRStJdu_Htd5NMaLJmT3Sx/view?usp=sharing)
 
 
 ---
